@@ -1,7 +1,7 @@
 {
     "name": "baek_oh_sip",
     "short_name": "baek_oh_sip",
-    "start_url": ".",
+    "start_url": "https://github.com/baek_oh_sip",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
